@@ -1,2 +1,4 @@
 # CSharp
- Este é o meu Repositorio para os meus projectos de CSharp
+ Está biblioteca de ORM Object Relation Map
+ Dsesenvolvido em C#
+ para facilitar operações de CRUD
