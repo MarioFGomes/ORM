@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "Aplication\Aplication.csproj", "{FB8A4A6E-AC93-4432-AF72-945493B25453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Aplication\Business\Business.csproj", "{23B41F92-5973-4C98-8097-C6FAE650AFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{31DE03E2-2E62-4A6D-93D6-F2CCB72AC4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8A4A6E-AC93-4432-AF72-945493B25453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8A4A6E-AC93-4432-AF72-945493B25453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8A4A6E-AC93-4432-AF72-945493B25453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8A4A6E-AC93-4432-AF72-945493B25453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B41F92-5973-4C98-8097-C6FAE650AFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B41F92-5973-4C98-8097-C6FAE650AFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B41F92-5973-4C98-8097-C6FAE650AFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B41F92-5973-4C98-8097-C6FAE650AFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DE03E2-2E62-4A6D-93D6-F2CCB72AC4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DE03E2-2E62-4A6D-93D6-F2CCB72AC4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DE03E2-2E62-4A6D-93D6-F2CCB72AC4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DE03E2-2E62-4A6D-93D6-F2CCB72AC4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB2DF1C-CEDA-4639-A541-71C6CAAD57A7}
+	EndGlobalSection
+EndGlobal

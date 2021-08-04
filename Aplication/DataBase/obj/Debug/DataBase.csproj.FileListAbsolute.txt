@@ -1,0 +1,6 @@
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\bin\Debug\DataBase.dll
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\obj\Debug\DataBase.dll
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache

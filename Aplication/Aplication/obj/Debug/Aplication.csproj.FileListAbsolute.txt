@@ -1,0 +1,15 @@
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\Aplication.exe.config
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\Aplication.exe
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\Aplication.pdb
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.csprojAssemblyReference.cache
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.Form1.resources
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.Properties.Resources.resources
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.csproj.GenerateResource.cache
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.exe
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.pdb
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\Business.dll
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\Business.pdb
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\obj\Debug\Aplication.csproj.CopyComplete
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\DataBase.dll
+C:\Users\Mário Gomes\Videos\Projectos\Aplication\Aplication\bin\Debug\DataBase.pdb
